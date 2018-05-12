@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37359
     wikipedia: http://www.gutenberg.org/ebooks/author/39081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34979#Twentieth-Century-SocialismWhat-It-Is-Not--What-It-Is--How-It-May-Come
 gutenberg_issued: '2011-01-16'
 gutenberg_type: Text
 identifiers:
