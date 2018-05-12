@@ -1,0 +1,29 @@
+_repo: Twentieth-Century-SocialismWhat-It-Is-Not--What-It-Is--How-It-May-Come_34979
+_version: 0.1.0
+alternative_title: '20th Century Socialism: What It Is Not; What It Is: How It May
+  Come'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelly, Edmond
+    birthdate: 1851
+    deathdate: 1909
+    gutenberg_agent_id: '37359'
+    url: http://www.gutenberg.org/2009/agents/37359
+    wikipedia: http://www.gutenberg.org/ebooks/author/39081
+description: ''
+gutenberg_issued: '2011-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcc 'HX'
+title: 'Twentieth Century Socialism: What It Is Not; What It Is: How It May Come'
+url: http://www.gutenberg.org/ebooks/34979
